@@ -1,10 +1,4 @@
 ### Hi there 👋
-
-Hello there!
-I am Laura, a 23-year-old girl from Porto Alegre, Brazil. 
-I study computer science at the Federal University of Rio Grande do Sul (UFRGS). 
-I am always passionate about learning new things and building software that impact people's lives. 
-
 <!--
 **lauracorssac/lauracorssac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
